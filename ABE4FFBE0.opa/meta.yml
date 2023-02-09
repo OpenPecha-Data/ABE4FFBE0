@@ -1,0 +1,25 @@
+id: ABE4FFBE0
+title: 'RK: Kāśyapaparivarta'
+type: translation
+pechas:
+- IDB1D01F1
+- I43B10B87
+- IBF8D9C9E
+- I3BCF23E2
+- I4C4EE466
+- I7DDA1D4E
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  datatype: PlainText
+  created_at: 2023-02-09 14:59:07.379325
+  last_modified_at: 2023-02-09 14:59:07.379338
+alignment_to_base:
+  IDB1D01F1/28FE: '1814'
+  I43B10B87/7EBD: '1814'
+  IBF8D9C9E/8C94: '1814'
+  I3BCF23E2/CC4E: '1814'
+  I4C4EE466/8651: '1814'
+  I7DDA1D4E/A4C4: '1814'
